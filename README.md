@@ -4,6 +4,8 @@ A cinematic, modern, and fully responsive coffee shop website built with the lat
 
 ![Hero Preview](src/assets/hero-bg.png)
 
+Live Link (https://responive-coffee-shop-website.vercel.app/)
+
 ## 🚀 Features
 
 - **Cinematic Design**: Immersive hero section with parallax effects and video-like atmosphere.
