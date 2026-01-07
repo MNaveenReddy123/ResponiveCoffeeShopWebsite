@@ -1,36 +1,65 @@
-# Responsive Coffee Shop Website
+# Koffee - Premium Coffee Shop Website
 
-## Live Demo
-Check out the live version of the project here: [Coffee Shop Website](https://famous-lollipop-52668f.netlify.app/)
+A cinematic, modern, and fully responsive coffee shop website built with the latest frontend technologies. This project demonstrates a production-grade UI/UX with smooth animations, glassmorphism effects, and a premium aesthetic.
 
-## Project Overview
-This is a responsive coffee shop website built using HTML, CSS, and JavaScript. The website provides an attractive and user-friendly interface to showcase a coffee shop's offerings.
+![Hero Preview](src/assets/hero-bg.png)
 
-## Features
-- Fully responsive design
-- Attractive UI with smooth animations
-- Interactive navigation
-- Well-structured HTML, CSS, and JavaScript
+## 🚀 Features
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
+- **Cinematic Design**: Immersive hero section with parallax effects and video-like atmosphere.
+- **Smooth Animations**: Powered by `framer-motion` for scroll reveals, transitions, and micro-interactions.
+- **Fully Responsive**: Optimized for all devices (Mobile, Tablet, Desktop) using Tailwind CSS.
+- **Modern Routing**: Seamless page transitions with React Router.
+- **Interactive Components**:
+  - Auto-sliding Testimonial Carousel
+  - Masonry Gallery with Lightbox
+  - Filterable Menu
+  - Animated Contact Form with Glassmorphism
 
-## How to Run Locally
-1. Clone the repository:
+## 🛠️ Tech Stack
+
+- **Framework**: [React 19](https://react.dev/)
+- **Build Tool**: [Vite](https://vitejs.dev/)
+- **Styling**: [Tailwind CSS v3](https://tailwindcss.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
+- **Routing**: [React Router DOM](https://reactrouter.com/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+
+## 📦 Getting Started
+
+1. **Clone the repository**
    ```bash
-   git clone https://github.com/MNaveenReddy123/ResponiveCoffeeShopWebsite.git
-   ```
-2. Navigate to the project folder:
-   ```bash
+   git clone https://github.com/yourusername/ResponiveCoffeeShopWebsite.git
    cd ResponiveCoffeeShopWebsite
    ```
-3. Open `index.html` in your browser.
 
-## Deployment
-This project is deployed using [Netlify](https://www.netlify.com/). You can view the live version at [this link](https://famous-lollipop-52668f.netlify.app/).
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
+3. **Run the development server**
+   ```bash
+   npm run dev
+   ```
 
+4. **Build for production**
+   ```bash
+   npm run build
+   ```
+
+## 📂 Project Structure
+
+```
+src/
+ ├── assets/        # Images and static assets
+ ├── components/    # Reusable UI components (Navbar, Footer, Hero, etc.)
+ ├── pages/         # Page components (Home, About, Menu, etc.)
+ ├── styles/        # Global styles
+ ├── App.jsx        # Main application layout
+ └── main.jsx       # Entry point
+```
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
