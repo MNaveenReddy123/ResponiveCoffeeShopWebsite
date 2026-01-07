@@ -4,7 +4,7 @@ A cinematic, modern, and fully responsive coffee shop website built with the lat
 
 ![Hero Preview](src/assets/hero-bg.png)
 
-Live Link (https://responive-coffee-shop-website.vercel.app/)
+Live Link [click here](https://responive-coffee-shop-website.vercel.app/)
 
 ## 🚀 Features
 
